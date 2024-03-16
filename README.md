@@ -1,1 +1,1 @@
-# Full Stack Ecommerce Store Assets
+# Full Stack Ecommerce Store images
